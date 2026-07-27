@@ -1,0 +1,24 @@
+{
+    "hypothesis_approved": true,
+    "target_moes": {
+        "headway_cv_target": "<= 0.18",
+        "headway_cv_actual": 0.13906169690738412,
+        "delta_ewt_target_pct": ">= 40.0%",
+        "delta_ewt_actual_pct": 60.3464769521608,
+        "delta_frr_target_pct": ">= 25.0%",
+        "delta_frr_actual_pct": 47.35077328070504,
+        "boycott_rate_target_pct": "0.0%",
+        "boycott_rate_actual_pct": 0.0,
+        "driver_retention_improvement_pct": 100.0
+    },
+    "statistical_tests": {
+        "anova_ewt_f_stat": 51893.16146332424,
+        "anova_ewt_p_value": 0.0,
+        "anova_frr_f_stat": 69552.07274567506,
+        "anova_frr_p_value": 0.0,
+        "kruskal_cv_h_stat": 467.81437125748516,
+        "kruskal_cv_p_value": 4.5009297486230935e-101,
+        "shapiro_normality_ewt_p": 0.6447464873499472,
+        "shapiro_normality_frr_p": 0.9640055529767735
+    }
+}
